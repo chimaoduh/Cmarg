@@ -9,4 +9,5 @@ ls -la
 cd regionaloffice
 touch obeten.docx george.docx james.docx amaka.docx 
 ls -la 
-rm -rf regionaloffice
+rm -rf regionaloffice 
+cd .. 
